@@ -959,6 +959,3 @@ if answer == "D":
         
     except:
         print(LangSemeistvo, linguistics, Lingfam)
-
-
-
